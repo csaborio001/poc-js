@@ -1,0 +1,16 @@
+{
+    "name": "csaborio/poc-js",
+    "description": "Proof of Concept: Sending info to Javascript from WordPress",
+    "type": "library",
+    "require-dev": {
+        "squizlabs/php_codesniffer": "^3.4",
+        "wp-coding-standards/wpcs": "^2.1"
+    },
+    "authors": [
+        {
+            "name": "Christian Saborio",
+            "email": "csaborio@scorpiotek.com"
+        }
+    ],
+    "require": {}
+}
